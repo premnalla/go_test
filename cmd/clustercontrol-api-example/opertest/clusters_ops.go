@@ -5,7 +5,8 @@ import (
 	"fmt"
 	"io"
 	"os"
-  "github.com/premnalla/go-playground/pkg/openapi"
+
+  "github.com/premnalla/go_test/pkg/openapi"
 )
 
 func getAllClusterInfo() {

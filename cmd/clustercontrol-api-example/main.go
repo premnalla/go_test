@@ -2,7 +2,7 @@ package main
 
 import (
 	"crypto/tls"
-	"github.com/premnalla/cmd/clustercontrol-api-example/opertest"
+	"github.com/premnalla/go_test/cmd/clustercontrol-api-example/opertest"
 	"net/http"
 )
 
